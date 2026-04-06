@@ -64,8 +64,8 @@ nano mount.sh
 ```
 
 **В Nano исправь:**
-* `DISK_ROOT="/dev/ваша_разметка"` (например, `nvme0n1p2`)
-* `DISK_EFI="/dev/ваша_разметка"` (например, `nvme0n1p1`)
+* `DISK_ROOT="/dev/sda2"` (например, `nvme0n1p2`)
+* `DISK_EFI="/dev/sda1"` (например, `nvme0n1p1`)
 * *Ctrl+O, Enter, Ctrl+X.*
 
 **3. Запускаем установку:**
