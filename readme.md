@@ -54,8 +54,8 @@ ssh root@ТВОЙ_IP_АДРЕС
 
 ```bash
 # 1. Скачиваем скрипты
-curl -O https://raw.githubusercontent.com/Salamander5876/Arch/main/mount.sh
-curl -O https://raw.githubusercontent.com/Salamander5876/Arch/main/install.sh
+curl -O https://raw.githubusercontent.com/Salamander5876/Arch/refs/heads/main/mount.sh
+curl -O https://raw.githubusercontent.com/Salamander5876/Arch/refs/heads/main/install.sh
 chmod +x mount.sh install.sh
 
 # 2. Правим конфиг монтирования
